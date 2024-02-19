@@ -1,0 +1,12 @@
+
+
+java:S1130"€Remove the declaration of thrown exception 'java.util.concurrent.ExecutionException', as it cannot be thrown from method's body.(­Ëê8ºÖ¹øş0
+”
+java:S1130"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(­Ëê8»Ö¹øş0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(í¦èºıÿÿÿÿ8ËÖ¹øş0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(æ ¹8ÍÖ¹øş0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(å²§©üÿÿÿÿ8ÎÖ¹øş0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ãêéúşÿÿÿÿ8àÖ¹øş0
+Z	java:S106 "9Replace this use of System.out or System.err by a logger.(‘°‘èûÿÿÿÿ8æÖ¹øş0
+Z	java:S106*"9Replace this use of System.out or System.err by a logger.(Óü¨Üøÿÿÿÿ8ìÖ¹øş0
+Z	java:S1064"9Replace this use of System.out or System.err by a logger.(Óü¨Üøÿÿÿÿ8ïÖ¹øş0

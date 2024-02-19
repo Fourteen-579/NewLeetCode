@@ -1,0 +1,8 @@
+
+g	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8ñÉÂ÷0
+[	java:S899":Do something with the "boolean" value returned by "offer".(¦æ×Íûÿÿÿÿ8ñÉÂ÷0
+V	java:S899":Do something with the "boolean" value returned by "offer".(­ÍĞ8ñÉÂ÷0
+U	java:S899":Do something with the "boolean" value returned by "offer".(†ÉÛ68ñÉÂ÷0
+{
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8‚ÉÂ÷0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÓØîòùÿÿÿÿ8‚ÉÂ÷0

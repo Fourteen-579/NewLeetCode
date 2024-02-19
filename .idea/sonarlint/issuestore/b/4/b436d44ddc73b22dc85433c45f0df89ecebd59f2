@@ -1,0 +1,12 @@
+
+z	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(³ºèßşÿÿÿÿ8¤ùÚí÷0
+Q
+java:S1066"/Merge this if statement with the enclosing one.(Å¹Ó—ûÿÿÿÿ8ü©èí÷0
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÿ†Ó»8¥ùÚí÷0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ù¬˜Ì8 úÚí÷0
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(Ğñ¬é8»†Şí÷0
+8
+java:S3626&"Remove this redundant jump.(ÉŠ©ƒ8£úÚí÷0
+_
+java:S1126+"BReplace this if-then-else statement by a single method invocation.(Ü™´ş8¥úÚí÷0
